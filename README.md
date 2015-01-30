@@ -5,7 +5,8 @@ This repo: http://bit.ly/noda-scraping
 ####Links you need:
 
 - [Chrome Scraper extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-- [Swedish MPs](www.riksdagen.se/sv/ledamoter-partier/Hitta-ledamot/Bokstavsordning/)
+- [Swedish MPs](http://www.riksdagen.se/sv/ledamoter-partier/Hitta-ledamot/Bokstavsordning/)
+
 
 
 ####More tutorials:
